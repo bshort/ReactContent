@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+        "id": 1,
+        "name": "Brian Short",
+        "email": "b@s.com"
+      },
+      {
+        "id": 2,
+        "name": "Adrian Short",
+        "email": "a@s.com"
+      },
+        {
+      "id": 3,
+      "name": "Kim Possible",
+      "email": "k@p.com"
+    }
+  ]
+}
